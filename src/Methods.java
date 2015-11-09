@@ -5,7 +5,7 @@ public class Methods {
 		char letter = generateRandomCharacter();
 		generateRandomCharacter();
 		testGenerateRandomCharacter();
-		//System.out.print(letter);
+		System.out.print(letter);
 		
 	}
 public static char generateRandomCharacter(){
